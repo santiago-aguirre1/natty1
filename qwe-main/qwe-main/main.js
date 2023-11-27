@@ -26,4 +26,6 @@ document.addEventListener('DOMContentLoaded', function() {
       document.querySelector('h1').style.color = '#222222';
     }, 1000);
   });
+
+   /* results page stuff */
   
